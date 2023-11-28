@@ -1,12 +1,12 @@
 # Web API
 This is a simple Web API that uses CRUD operations.
 
-#User Guide
+# User Guide
 Download the folder ContosoPizza. With the folder you will find relevant files needed for the API
 
 You can run the API in Visual Studio or Visual Studio Code.
 
 This was coded in VS Code
 
-#Terminal Commands
+# Terminal Commands
 If VS Code will be used to run the API, you can download the WebApi command line commands.txt
