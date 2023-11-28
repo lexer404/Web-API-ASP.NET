@@ -2,7 +2,7 @@
 This is a simple Web API that uses CRUD operations.
 
 # User Guide
-Download the folder ContosoPizza. With the folder you will find relevant files needed for the API
+Download the zip file ContosoPizza. With the folder you will find relevant files needed for the API
 
 You can run the API in Visual Studio or Visual Studio Code.
 
