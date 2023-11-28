@@ -1,0 +1,25 @@
+WebApi command Line commands:
+
+List of installed SDK's: dotnet --list-sdks
+
+Create the files for a basic web api: dotnet new webapi -f net6.0
+
+Build & Test API: dotnet run
+
+Install the .NET HTTP REPL tool that will be used to make HTTP requests to the web API: dotnet tool install -g Microsoft.dotnet-httprepl
+
+Detect all API's available on the connected endpoint & list them: ls
+
+Going to the WeatherForecast endpoint: cd WeatherForecast
+
+Make a get request in HTTPRepl: get
+
+End the current HttpRepl session: exit
+
+Create Models folder: mkdir Models
+
+Create Services folder: mkdir Services
+
+Build the app: dotnet build
+
+Port: Number on the web api link (localhost)
